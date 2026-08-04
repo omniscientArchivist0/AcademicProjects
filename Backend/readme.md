@@ -1,4 +1,4 @@
-# Administration
+# Backend
 [![My Skills](https://skillicons.dev/icons?i=c,js,java,bash,git)](https://skillicons.dev)
 ## Description
 Those projects were made for Software Engineering, Object-Oriented Programming and Programming Logic 2 classes. All of them are directly related to programming, and showcase understanding of the listed languages and technologies.
