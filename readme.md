@@ -20,9 +20,16 @@
 | ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white) |
 | ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)         |
 | ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)                     |
+## Other Skills
+- I am comfortable with both Office (Microsoft Word, Powerpoint, Excel) and Adobe Suite (Photoshop, Premiere, After Effects).
+- I know considerably well how to write both formal and informal text for documents and project descriptions.
 ## Soft Skills
 - **Adaptability**: Learning fast all types of languages and technologies, both front and backend.
+- **Communication**: The abilitiy to relay your perspective to other people calmly and effectively, while also acknowleging theirs properly, adquiring relevant information in the process.
 - **Creativity**: A lot of those projects showcase different ideas and concepts, especially in terms of concepts to use.
 - **Documentation**: Great familiarity with both technologies and methods to make different documents, including both Google and Microsoft suite.
-- **Management**: Being able to work well with people from other origins, kinds and thought processes, while guaranteeing the success of the project.
+- **Empathy**: The ability to relate to other people and understand their point of view.
+- **Management**: Being able to communicate well with people from other origins, kinds and thought processes, while guaranteeing the success of the project.
+- **Organization and Good Practices**: Writing code that is organized, simple to understand and functional, while thinking on how other people will interact with it.
 - **Professionalism**: Finishing projects inside of time constraints, focusing on what is necessary and never failing to properly communicate needs or mistakes.
+
